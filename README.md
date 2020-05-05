@@ -2,4 +2,4 @@
 
  **Perfil Social** - Resumo do meu currículo
 
- * [Acesse minhas redes sociais](https://romulocriston.github.io/perfilsocial/)
+ * [Acesse minhas redes sociais](https://romulocriston.github.io/perfil)
